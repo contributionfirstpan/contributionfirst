@@ -1,0 +1,22 @@
+title: 贡献为尊文明
+description: Contribution-First Civilization - A systematic theory for human future
+author: Pan
+email: 你的邮箱@example.com
+
+# 主题
+theme: minima
+
+# 语言
+lang: zh
+
+# 顶部导航菜单
+header_pages:
+  - index.md
+  - theory-toc.md
+  - community.md
+
+# 导航标题映射
+navigation:
+  index: 首页
+  theory-toc: 贡献为尊
+  community: 社区
