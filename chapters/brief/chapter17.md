@@ -1,1094 +1,1233 @@
 ---
 layout: default
-title: "Chapter 16: Justice and Mediation System (Brief Edition)"
+title: 第17章：政治制度设计（简述版）
 ---
 
 <div style="text-align: right; margin-bottom: 20px;">
-  <a href="../detailed/chapter16.html">View Detailed Edition →</a> | 
-  <a href="../../theory-toc.html">Back to Table of Contents</a>
+  <a href="../detailed/chapter17.html">查看详细版 →</a> | 
+  <a href="../../theory-toc.html">返回目录</a>
 </div>
 
-# Chapter 16: Justice and Mediation System
-## From Punishment and Retribution to Restoration and Reconciliation
+# 第17章：政治制度设计
+## 从代议民主到参与式民主
 
 ---
 
-## Fundamental Problems with Current Justice System
+## 当前政治制度的根本问题
 
-### Logic of Punitive Justice
+### 代议民主的理想与现实
 
-**Core Process:**
+**理想：**
 ```
-Crime occurs
+人民选举代表
     ↓
-Find perpetrator
+代表为人民服务
     ↓
-Determine guilt
-    ↓
-Impose punishment
-    ↓
-Send to prison
+人民满意
 ```
 
-**Focus:**
-- Who committed crime?
-- What law was broken?
-- What punishment deserved?
-
-**Ignored Questions:**
-- Who was harmed?
-- What damage was caused?
-- How to repair?
-- How to prevent recurrence?
-
----
-
-### Five Fundamental Defects
-
-#### Defect 1: Does Not Benefit Victims
-
-**Current State:**
+**现实：**
 ```
-Victim reports crime
+人民选举代表
     ↓
-Police investigate
+代表被利益集团俘获
     ↓
-Prosecutor charges
+代表为金主服务
     ↓
-Judge sentences
-    ↓
-Offender imprisoned
-    ↓
-Victim: And then what?
-```
-
-**What Does Victim Get?**
-- No compensation (or very little)
-- No explanation (why did offender do this?)
-- No apology
-- Trauma not healed
-- Vengeful feelings not resolved
-
-**Result:**
-- Victim still suffering
-- No sense of justice satisfied
-- "Won the case, lost the life"
-
----
-
-#### Defect 2: Offenders Become More Violent
-
-**Prison Reality:**
-- Violence rampant
-- Gang control
-- Sexual assault common
-- Drugs prevalent
-- Personality distorted
-
-**"Crime University":**
-```
-Minor offender + Prison
-    ↓
-Learns more criminal skills
-    ↓
-Meets more criminals
-    ↓
-Forms criminal networks
-    ↓
-After release = More professional criminal
-```
-
-**Data:**
-- USA: 70% of released prisoners reoffend within 5 years
-- Punishment doesn't rehabilitate, creates more crime
-
----
-
-#### Defect 3: Social Division
-
-**Labeling:**
-```
-Crime → Criminal → Permanent label
-    ↓
-After release:
-- Can't find work (criminal record)
-- Can't rent housing (background checks)
-- Can't get loans (credit blacklist)
-- Socially excluded
-    ↓
-Survival difficulties
-    ↓
-Reoffend (no other choice)
-```
-
-**Vicious Cycle:**
-- Punishment → Exclusion → Crime → Harsher punishment
-
----
-
-#### Defect 4: Extremely Costly
-
-**Economic Cost:**
-- USA: $30,000-60,000 per prisoner per year
-- Build prisons, hire guards, administration
-- Prisoner's family loses income source
-
-**Social Cost:**
-- Prisoners' children: More likely to commit crime, drop out
-- Communities broken (many young people imprisoned)
-- Lost productivity
-
-**Why So Expensive?**
-- Doesn't solve fundamental problem
-- Just temporary isolation
-- Problems remain after release
-
----
-
-#### Defect 5: Doesn't Address Root Causes
-
-**Fundamental Causes of Crime:**
-- Poverty (survival needs)
-- Addiction (drugs, alcohol)
-- Mental illness (untreated)
-- Trauma (childhood abuse)
-- Lack of education and skills
-
-**What Does Prison Do About This?**
-- Nothing
-- Lock them up, time's up, let them out
-- Root causes still exist
-- Reoffending inevitable
-
----
-
-## Philosophy of Restorative Justice
-
-### Core Principles
-
-**Don't Ask:**
-- Who committed crime?
-- What punishment deserved?
-
-**But Ask:**
-- **Who was harmed?**
-- **What damage was caused?**
-- **Who is responsible for repair?**
-- **How to prevent recurrence?**
-
----
-
-### Three Key Shifts
-
-**Shift 1: From Retribution to Restoration**
-```
-Old: Eye for eye, tooth for tooth
-    ↓
-New: Repair harm, restore relationships
-```
-
-**Shift 2: From State vs. Offender to Victim-Offender-Community**
-```
-Old: State prosecutes offender on behalf of victim
-    ↓
-New: Victim, offender, community dialogue
-```
-
-**Shift 3: From Punishment to Accountability**
-```
-Old: Serve time (time's up, walk away)
-    ↓
-New: Take responsibility (repair harm, change behavior)
+人民失望
 ```
 
 ---
 
-### Goals of Restorative Justice
+### 五大根本缺陷
 
-**1. Repair Harm to Victims**
-- Receive compensation (economic)
-- Receive explanation (why)
-- Receive apology (sincere)
-- Heal psychological trauma
-- Restore sense of safety
+#### 缺陷1：金钱政治
 
-**2. Offender Takes Responsibility**
-- Understand consequences of actions
-- Recognize harm to others
-- Genuine remorse
-- Active repair
-- Behavioral change
+**竞选成本高昂：**
+- 美国总统选举：数十亿美元
+- 国会议员：数百万美元
+- 候选人需要富人和企业捐款
 
-**3. Restore Community Relationships**
-- Community safety
-- Rebuild trust
-- Reintegrate offender
-- Resolve conflicts
+**结果：**
+```
+捐款 → 当选
+    ↓
+还债：
+- 减税（富人）
+- 放松监管（企业）
+- 政策倾斜（金主）
+    ↓
+人民利益被出卖
+```
 
-**4. Prevent Reoffending**
-- Address root causes
-- Provide support and resources
-- Ongoing monitoring
-- Community supervision
+**数据：**
+- 美国：90%法案符合富人利益，10%符合穷人利益
+- 实际上是"富人民主"，不是"人民民主"
 
 ---
 
-## Conflict Mediation Mechanisms
+#### 缺陷2：职业政客阶层
 
-### Tiered Mediation System
+**政治成为职业：**
 ```
-Minor conflicts → Community mediation
+年轻人 → 进入政界 → 一辈子政客
     ↓
-Moderate conflicts → Professional mediation
+脱离人民：
+- 不了解普通人生活
+- 不体验底层困难
+- 住豪宅、拿高薪、享特权
     ↓
-Serious crimes → Restorative justice conferences
-    ↓
-Extreme violence → Traditional justice (retained)
+如何代表人民？
 ```
 
-**Principle: Mediate whenever possible**
+**腐败温床：**
+- 长期在位 → 权力网络
+- 利益交换
+- 裙带关系
+- 难以监督
 
 ---
 
-### Tier 1: Community Mediation (Minor Conflicts)
+#### 缺陷3：党派极化
 
-**Applicable Scope:**
-- Neighborhood disputes (noise, pets, boundaries)
-- Property disputes (small loans, damage)
-- Interpersonal conflicts (verbal conflicts, misunderstandings)
-
-**Mediation Process:**
+**两党制/多党制问题：**
 ```
-1. Conflict occurs
+党派利益 > 国家利益
     ↓
-2. Both parties agree to mediate (voluntary)
+为反对而反对
     ↓
-3. Community mediator intervenes
+否决一切对方提案
     ↓
-4. Each party states case
-    ↓
-5. Facilitate dialogue
-    ↓
-6. Reach agreement
-    ↓
-7. Follow-up monitoring
+政治僵局，无法前进
 ```
 
-**Example:**
-```
-Conflict: Neighbor A's dog barks at night, Neighbor B loses sleep, angry
-    ↓
-Mediation:
-A: I didn't know dog barked so severely, sorry
-B: I understand you love your dog, but I need rest
-    ↓
-Agreement:
-- A trains dog, or keeps inside at night
-- A compensates B with sleep earplugs
-- B gives A one month to improve
-- Review after one month
-    ↓
-Result: Problem solved, relationship restored
-```
+**撕裂社会：**
+- 把复杂问题简化为"我们 vs. 他们"
+- 仇恨和不信任
+- 暴力和极端主义
 
-**Community Mediators:**
-- Trained volunteers
-- Neutral, non-judgmental
-- Facilitate dialogue, don't force
-- Mediation itself is contribution (Chapter 8 Category 6)
+**美国案例：**
+- 2021年国会山冲击事件
+- 两党完全无法合作
+- 社会严重分裂
 
 ---
 
-### Tier 2: Professional Mediation (Moderate Conflicts)
+#### 缺陷4：信息不对称
 
-**Applicable Scope:**
-- Business disputes
-- Labor-management conflicts
-- Divorce property division
-- Complex civil disputes
+**选民不了解：**
+- 政策细节复杂
+- 媒体操纵
+- 虚假信息泛滥
+- 候选人说谎
 
-**Professional Mediators:**
-- Professionally trained and certified
-- Knowledge of law, psychology, negotiation
-- High contribution value (Chapter 12 high weight)
-
-**Mediation Techniques:**
-
-**1. Active Listening**
-- Don't interrupt
-- Confirm understanding
-- Acknowledge emotions
-
-**2. Reframing**
+**投票盲目：**
 ```
-Conflict frame: "He deceived me!"
+选民不了解真相
     ↓
-Reframe: "You feel betrayed; he was facing difficulties at that time"
+基于情绪、偏见、谎言投票
     ↓
-From confrontation to understanding
-```
-
-**3. Separate People from Problem**
-```
-Not: "You're a bad person"
+选出不合格代表
     ↓
-But: "This behavior is problematic, let's solve it together"
-```
-
-**4. Find Common Interests**
-```
-Not: You want X, I want Y (opposing)
-    ↓
-But: We both want Z (common)
-```
-
-**5. Creative Solutions**
-```
-Not: Choose one or the other
-    ↓
-But: Brainstorm, find third way
+政策失败
 ```
 
 ---
 
-### Tier 3: Restorative Justice Conferences (Serious Crimes)
+#### 缺陷5：代表性不足
 
-**Applicable Scope:**
-- Theft, robbery
-- Intentional harm
-- Drug crimes
-- Some sexual offenses (with consent of both parties)
+**谁被代表？**
+- 议员：多为白人、男性、富人、老年
+- 缺少：女性、少数族裔、工人、青年
 
-**Participants:**
-- Victim (voluntary)
-- Offender (voluntary)
-- Family members and supporters of both
-- Community representatives
-- Trained facilitators
+**结果：**
+- 政策忽视边缘群体
+- 少数声音被压制
+- "民主"只是部分人的民主
 
-**Conference Process:**
+---
 
-**Stage 1: Preparation (Weeks to Months)**
+## 贡献为尊的政治理念
+
+### 核心原则
+
+**权力属于人民：**
+> 不是空洞口号，而是实际制度保障。
+
+**四大支柱：**
+1. **直接民主**：重大决策，人民直接投票
+2. **参与式民主**：日常事务，人民积极参与
+3. **抽签民主**：避免职业政客，随机选择代表
+4. **代议民主**：必要时，短期专业代表
+
+**不是单一模式，而是混合最优。**
+
+---
+
+### 三大转变
+
+**转变1：从被动到主动**
 ```
-Facilitator meets separately with:
-- Victim: Ready? What to say? What needs?
-- Offender: Genuine remorse? Understand harm?
+旧：四年投一次票，然后旁观
     ↓
-Ensure both parties ready, otherwise no meeting
-```
-
-**Stage 2: Conference**
-```
-1. Opening (facilitator explains rules)
-    ↓
-2. Victim statement:
-   "What did I experience? How do I feel? What do I need?"
-    ↓
-3. Offender listens (no interrupting, no excuses)
-    ↓
-4. Offender statement:
-   "Why did I do this? Do I now understand harm I caused? What can I do to repair?"
-    ↓
-5. Family and community statements
-    ↓
-6. Dialogue and questions
-    ↓
-7. Reach repair agreement:
-   - Apology (sincere)
-   - Compensation (economic)
-   - Community service
-   - Counseling
-   - Drug treatment
-   - Job training
-   - Etc.
-    ↓
-8. Sign agreement, periodic checks
+新：持续参与，日常决策
 ```
 
-**Real Case (New Zealand):**
+**转变2：从精英到人民**
 ```
-Crime: Young person burglarized elderly person's home
+旧：职业政客统治
     ↓
-Conference:
-Victim (elderly):
-"You didn't just steal things, you stole my sense of security.
-I'm now afraid in my own home."
+新：普通公民参与
+```
+
+**转变3：从不透明到透明**
+```
+旧：黑箱操作，秘密交易
     ↓
-Offender (youth):
-"I just wanted money for drugs.
-I didn't realize the harm to you was so great.
-I'm truly sorry."
-    ↓
-Agreement:
-- Offender compensates economic loss
-- Installs new security system
-- Helps elderly with house repairs weekly (6 months)
-- Drug treatment
-- Job training
-    ↓
-Result:
-Elderly: Security restored, saw young person change, forgave
-Offender: Truly understood harm, successfully quit drugs, found work
-Community: Relationships repaired
+新：所有决策公开，可审计
 ```
 
 ---
 
-### Tier 4: Traditional Justice (Extreme Cases)
+## 四种民主形式的结合
 
-**Retain Traditional Incarceration:**
-- Serial killers
-- Extreme violence
-- Ongoing threat to society
-- Unwilling or unable to change
+### 形式1：直接民主（重大决策）
 
-**But Even in Prison:**
-- Humane conditions (not punitive)
-- Provide education, treatment, job training
-- Mental health services
-- Prepare for possible reintegration
+**适用范围：**
+- 宪法修改
+- 重大政策（战争、重大建设）
+- 基本权利相关
+- 预算大框架
 
-**Principle:**
-> Even worst offenders retain human dignity.
+**运作方式：**
+```
+提案 → 公开讨论 → 全民投票 → 执行
+```
+
+**例子：**
+```
+提案：是否建设高速铁路网？
+    ↓
+AI提供信息：
+- 成本：X万亿
+- 收益：减少碳排放Y%，旅行时间减少Z%
+- 替代方案：A, B, C
+- 国际案例：日本、法国经验
+    ↓
+公开讨论（3个月）：
+- 线上论坛
+- 线下听证会
+- 专家解读
+- 公民辩论
+    ↓
+全民投票：
+- 通过：执行
+- 未通过：搁置或修改
+```
+
+**关键：知情投票**
+- 不是盲目投票
+- AI提供充分、客观信息
+- 时间充分讨论
+- 多元观点呈现
 
 ---
 
-## Community Justice
+### 形式2：参与式民主（日常事务）
 
-### Community's Role in Justice
+**适用范围：**
+- 社区事务（公园建设、道路维修）
+- 预算分配（参与式预算）
+- 地方政策（学校、医疗）
 
-**Traditional: Community Absent**
+**参与式预算（巴西模式改进）：**
+
+**流程：**
 ```
-Crime → State intervenes → Offender imprisoned → Community watches
+1. 政府公布可用预算（如社区预算1000万）
     ↓
-Community not involved
-Community has no voice
-Community has no responsibility
+2. 公民提案：
+   - 建社区中心
+   - 修理老年活动室
+   - 改善儿童游乐场
+   - 等等
+    ↓
+3. 社区讨论：
+   - 线上线下会议
+   - 评估可行性
+   - 成本估算
+    ↓
+4. 公民投票：
+   - 每人X票
+   - 给喜欢的项目投票
+    ↓
+5. 执行得票最高的项目
+    ↓
+6. 公开透明执行过程
+    ↓
+7. 完成后评估
 ```
 
-**Restorative: Community Central**
-```
-Crime → Community supports victim
-    ↓
-Community participates in dialogue
-    ↓
-Community supervises repair
-    ↓
-Community accepts reintegration
-```
+**效果：**
+- 巴西阿雷格里港：
+  - 参与式预算30年
+  - 公民满意度高
+  - 腐败大幅减少
+  - 社区关系改善
+
+**贡献为尊加强版：**
+- 参与 = 贡献（第8章类别6）
+- 提案、讨论、投票都获得贡献值
+- 激励更多人参与
 
 ---
 
-### Three Dimensions of Community Justice
+### 形式3：抽签民主（避免精英垄断）
 
-#### Dimension 1: Prevention (Before)
+**原理：**
+> 古希腊雅典：重要职位通过抽签产生，认为所有公民都能治理。
 
-**Community Responsibility:**
-- Care for all members (don't let anyone fall through cracks)
-- Identify and support at-risk groups
-- Provide resources (education, employment, mental health)
-- Create sense of belonging
-
-**Example:**
-```
-Community notices:
-Teen dropping out, idle, associating with bad crowd
-    ↓
-Community action:
-- Mentoring program (adult one-on-one guidance)
-- Job training
-- Sports club (provide belonging)
-- Family support
-    ↓
-Prevent crime from occurring
-```
+**现代应用：公民议事会（Citizens' Assembly）**
 
 ---
 
-#### Dimension 2: Participation (During)
+#### 公民议事会运作
 
-**In Restorative Justice Conferences:**
-- Community representatives participate
-- Express community feelings (fear, anger, concern)
-- Provide community perspective
-- Participate in repair plan formulation
+**选择成员：**
+```
+AI随机选择（分层抽样）：
+- 确保代表性：
+  - 年龄、性别、地区、职业、收入多样
+- 人数：50-150人
+- 任期：处理特定议题，然后解散
+```
 
-**Community Service as Repair:**
+**培训和学习：**
 ```
-Offender doesn't sit in jail
+选中的公民：
     ↓
-But does beneficial work in community:
-- Clean parks
-- Repair schools
-- Help elderly
-- Environmental protection
+2-4周培训：
+- 议题背景（专家讲解）
+- 多元观点（不同立场都听）
+- 审议技巧（如何讨论、决策）
+- 访问相关机构
     ↓
-Repair harm to community
-Show change and contribution
-Rebuild relationships
+充分准备
 ```
+
+**审议和决策：**
+```
+集中审议（数天到数周）：
+    ↓
+- 小组讨论
+- 听取证人（专家、利益相关者）
+- 质询和辩论
+- 反思和总结
+    ↓
+形成建议（共识或多数）
+    ↓
+向政府和公众报告
+```
+
+**真实案例：**
+
+**爱尔兰（2016-2018）：**
+```
+议题：堕胎合法化（极具争议）
+    ↓
+公民议事会：99人，18个月
+    ↓
+审议：
+- 听取医生、律师、宗教人士、女性
+- 讨论道德、法律、健康、权利
+    ↓
+建议：允许堕胎（有条件）
+    ↓
+全民公投：通过（66%）
+    ↓
+成功：
+- 民主合法性
+- 深度审议
+- 社会和解
+```
+
+**贡献为尊应用：**
+- 重大争议议题 → 公民议事会
+- 成员服务 = 高贡献值
+- 避免职业政客垄断
+- 确保普通人声音
 
 ---
 
-#### Dimension 3: Reacceptance (After)
+### 形式4：代议民主（必要补充）
 
-**Offender Returns to Community:**
+**保留但改革：**
 
-**Traditional: Exclusion**
-```
-Released → No job → No housing → No acceptance → Reoffend
-```
+**何时需要：**
+- 复杂专业议题（需要持续研究）
+- 日常行政管理
+- 国际关系
 
-**Restorative: Acceptance**
-```
-Complete repair agreement
-    ↓
-Community welcome ceremony:
-"You've made amends,
-You've changed,
-We welcome you back."
-    ↓
-Provide support:
-- Employment opportunities
-- Housing
-- Social networks
-- Ongoing supervision and help
-    ↓
-Successful reintegration
-```
+**改革措施：**
 
-**"Circle of Welcome":**
-```
-Community members form circle
-    ↓
-Returnee stands in center
-    ↓
-Each person says:
-"Welcome back"
-"I see your change"
-"I'm willing to support you"
-    ↓
-Returnee: Accepted, belonging, motivated not to reoffend
-```
+**1. 短期任期**
+- 不超过2-3届
+- 避免职业政客
+- 强制轮换
+
+**2. 可随时罢免**
+- 不满意 → 公民发起罢免
+- 门槛：X%选民签名
+- 重新选举
+
+**3. 无薪或低薪**
+- 不是高薪职位
+- 获得基本生活保障
+- 服务 = 贡献值（不是致富手段）
+
+**4. 透明义务**
+- 所有会议公开（除国家安全）
+- 所有投票记录公开
+- 所有财产公开
+- 所有会面公开
+
+**5. 禁止政治捐款**
+- 竞选经费：公共资助
+- 平等资源
+- 杜绝金钱政治
 
 ---
 
-## Systematic Crime Prevention
+## 权力制衡机制
 
-### Root Causes of Crime
+### 传统三权分立（保留但强化）
 
-**Not: People born bad**
-**But: Environment and circumstances**
+**立法、行政、司法：**
+- 相互独立
+- 相互制衡
+- 防止权力集中
 
-**Major Causes:**
-1. **Poverty**: Survival needs
-2. **Trauma**: Childhood abuse, violence
-3. **Addiction**: Drugs, alcohol
-4. **Mental Illness**: Undiagnosed, untreated
-5. **Lack of Education and Skills**: No employment opportunities
-6. **Social Exclusion**: No sense of belonging
-7. **Despair**: Can't see future
+**强化措施：**
 
----
+**1. 司法独立（绝对）**
+- 法官终身任命（或长期）
+- 不受政治压力
+- 只服从法律
 
-### Contribution-First's Systematic Prevention
+**2. 立法监督行政（有效）**
+- 质询权（定期）
+- 调查权（充分）
+- 弹劾权（如需）
 
-#### Strategy 1: Eliminate Poverty (Fundamental)
-
-**Basic Guarantee (Chapter 13):**
-```
-Food, housing, healthcare, education all guaranteed
-    ↓
-No need to commit crime for survival
-    ↓
-Theft, robbery dramatically reduced
-```
-
-**Data Support:**
-- Research shows: Poverty strongly correlates with crime rate
-- Basic income experiments: Crime rate decreases
+**3. 行政接受司法审查**
+- 任何政策可诉诸法院
+- 违宪可撤销
+- 权力有界限
 
 ---
 
-#### Strategy 2: Treat Addiction and Mental Illness
+### 新增：第四权（公民监督）
 
-**Free Treatment (Chapter 14):**
+**人民直接监督权力：**
+
+**机制1：公民监察员（Ombudsman）**
 ```
-Drug addiction → Treatment, not incarceration
+任命：
+- 公民议事会提名
+- 全民投票确认
     ↓
-Mental illness → Treatment, not punishment
+职责：
+- 调查政府不当行为
+- 保护公民权利
+- 独立于政府
     ↓
-Address fundamental problem
-    ↓
-No longer need to commit crime
-```
-
-**Portugal Model:**
-- Drug decriminalization (2001)
-- Addiction viewed as health issue
-- Provide treatment and support
-- Result: Drug-related deaths down 90%, crime rate down
-
----
-
-#### Strategy 3: Education and Employment Opportunities
-
-**Lifelong Learning (Chapter 15):**
-```
-Anyone, any age, learn free
-    ↓
-Acquire skills
-    ↓
-Find work
-    ↓
-Live with dignity
-    ↓
-No need to commit crime
+权力：
+- 访问所有文件
+- 传唤官员
+- 公开报告
 ```
 
-**Learning Itself Is Contribution:**
-- Even without job, learning earns contribution value
-- Won't despair from unemployment
-
----
-
-#### Strategy 4: Community Belonging
-
-**Social Interaction as Contribution (Chapter 8 Category 6):**
+**机制2：公民审计委员会**
 ```
-People have time to build relationships
+成员：
+- 随机选择（抽签）
+- 短期轮换
     ↓
-Strong sense of belonging
+职责：
+- 审计政府财务
+- 审查重大项目
+- 防止腐败和浪费
     ↓
-Won't turn to crime
-```
-
-**Especially Important for Youth:**
-- Sports clubs
-- Arts groups
-- Volunteer services
-- Mentoring programs
-- Provide belonging and direction
-
----
-
-#### Strategy 5: Trauma-Informed Approach
-
-**Understanding:**
-> Most offenders have trauma history (childhood abuse, witnessed violence, neglect)
-
-**Trauma-Informed System:**
-```
-Don't ask: "What's wrong with you?"
-    ↓
-But ask: "What happened to you?"
-    ↓
-Treat trauma, not punish symptoms
+报告：
+- 定期公开
+- 发现问题 → 调查、问责
 ```
 
-**Child Protection:**
-- Early identification of abuse
-- Intervention and treatment
-- Prevent intergenerational trauma transmission
-
----
-
-## Reintegration Support
-
-### Complete Reentry Plan
-
-**Not: Sentence completed, you're on your own**
-**But: Full support throughout, ensure success**
-
----
-
-### Three Reentry Stages
-
-#### Stage 1: Preparation During Incarceration
-
-**Even in Prison/Restoration Center:**
-
-**Education:**
-- Complete basic education
-- Vocational training
-- Skills certification
-
-**Treatment:**
-- Addiction treatment
-- Counseling
-- Trauma healing
-
-**Repair:**
-- Restorative justice conferences
-- Dialogue with victims
-- Genuine remorse
-
-**Planning:**
-- Formulate reentry plan
-- Arrange work
-- Arrange housing
-- Community connections
-
----
-
-#### Stage 2: Transition Period (Just Released/Completed Repair)
-
-**First 3-6 Months Critical:**
-
-**Housing:**
-- Transitional housing (temporary)
-- Or directly arrange permanent housing
-- Cannot be homeless
-
-**Employment:**
-- Work already arranged (contacted employers in advance)
-- Or vocational training continues
-- Learning itself is contribution, has income
-
-**Support Network:**
-- Community mentor (one-on-one)
-- Peer support groups (other successful returnees)
-- Family rebuilding (if possible)
-
-**Supervision:**
-- Not punitive
-- But supportive
-- Regular checks, provide help
-
----
-
-#### Stage 3: Long-Term Integration
-
-**After 1-2 Years:**
-
-**Independent Living:**
-- Stable work
-- Permanent housing
-- Healthy relationships
-
-**Ongoing Support:**
-- But gradually reduced
-- Can seek help anytime
-- Community acceptance
-
-**Contributing to Society:**
-- Not just "not reoffending"
-- But actively contributing
-- Become role model (for other returnees)
-
----
-
-### Success Case (Norway Model)
-
-**Norwegian Prisons:**
-- Humane, dignified
-- Like apartments, not cells
-- Education, work, treatment
-- Prepare for reentry
-
-**Results:**
-- Recidivism rate: 20% (USA 70%)
-- Lower cost (prevention < incarceration)
-- Safer society
-
-**Why Success?**
+**机制3：全民公投罢免**
 ```
-Not treating people like animals and locking them up
+不满政府/官员
     ↓
-But treating as humans
+公民发起罢免
     ↓
-Education, treatment, respect
+收集签名（X%公民）
     ↓
-People change, don't reoffend
+全民投票
+    ↓
+通过 → 罢免，重新选举
 ```
 
 ---
 
-## AI's Role in Justice System
+### AI辅助权力制衡
 
-### Five AI Applications
+**AI的角色：**
 
-#### Application 1: Risk Assessment (Use Cautiously)
-
-**Purpose:**
-- Identify high-risk individuals
-- Provide preventive support
-
-**Example:**
+**1. 实时监测**
 ```
-AI analyzes:
-- Teen with multiple truancies
-- Family dysfunction
-- Bad peer associations
+AI追踪：
+- 所有政府决策
+- 所有资金流动
+- 所有官员行为
     ↓
-Risk score: High
+识别异常：
+- 可疑交易
+- 政策不一致
+- 利益冲突
     ↓
-Trigger intervention:
-- Social worker visits
-- Mentoring program
-- Family support
-    ↓
-Prevent crime from occurring
+自动标记，人类审查
 ```
 
-**Critical Warning:**
-- Cannot use for discrimination
-- Algorithm must be transparent
-- Can be challenged
-- Humans make final decisions
-
----
-
-#### Application 2: Mediation Support
-
-**Preparation Phase:**
-- AI helps organize both parties' statements
-- Identifies common ground and differences
-- Provides similar case references
-
-**During Conference:**
-- Records dialogue
-- Real-time summary
-- Prompts mediator on key points
-
-**Doesn't replace human mediators**
-
----
-
-#### Application 3: Repair Agreement Monitoring
-
-**Execution Tracking:**
+**2. 自动预警**
 ```
-Agreement: Offender does 10 hours community service weekly
+检测到：
+- 权力过度集中
+- 某机构扩张
+- 制衡机制弱化
     ↓
-AI tracks: Completed, not completed
+警告公民和监督机构
+```
+
+**3. 信息公开**
+```
+所有政府数据：
+- 实时发布
+- 易于搜索
+- AI总结（普通人能懂）
     ↓
-Reminds parties and supervisors
-    ↓
-If not completed: Warning
-    ↓
-If persistently not completed: Reassess
+信息对称 → 有效监督
 ```
 
 ---
 
-#### Application 4: Resource Matching
+## 防止腐败
 
-**Connect Needs with Resources:**
+### 腐败的根源
+
+**为什么有腐败？**
+
+**1. 权力缺乏监督**
 ```
-Returnee needs:
-- Carpentry skills training
-- Housing
-- Addiction treatment
-    ↓
-AI matches:
-- Nearby vocational school
-- Available housing
-- Treatment center
-    ↓
-Quick connection, no wasted time
+权力 + 无监督 = 必然腐败（阿克顿勋爵）
 ```
 
----
-
-#### Application 5: Effectiveness Evaluation
-
-**Track Data:**
-- Mediation success rate
-- Recidivism rate
-- Victim satisfaction
-- Offender reintegration status
-
-**Continuous Improvement:**
-- What methods work?
-- What doesn't?
-- How to optimize?
-
----
-
-## Key Insights
-
-### 1. Justice Is Not Revenge, But Restoration
-
-**Old Thinking:**
+**2. 利益诱惑**
 ```
-Crime = Debt (owed to society)
+官员掌握资源
     ↓
-Punishment = Repayment
+有人想获得资源
     ↓
-Prison time = Paid in full
+贿赂交易
 ```
 
-**New Thinking:**
+**3. 信息不透明**
 ```
-Crime = Broken relationships, harm caused
+黑箱操作
     ↓
-Justice = Repair relationships, mend harm
+无人知晓
     ↓
-Restoration = Restore harmony
-```
-
-**Desmond Tutu (South African Truth and Reconciliation Commission):**
-> "There is no future without forgiveness, but there is also no future without justice. True justice is not revenge, but restoration."
-
----
-
-### 2. Offenders Are Human, Capable of Change
-
-**Not:**
-- "Bad people" (permanent label)
-- "Monsters" (dehumanization)
-- "Beyond redemption"
-
-**But:**
-- People who did bad things
-- Under specific circumstances and pressures
-- Capable of change
-- Deserve second chance
-
-**Nelson Mandela:**
-> "Even the hardest heart can be touched by soft humanity."
-
----
-
-### 3. Victim's Needs Are Central
-
-**Traditional Justice Ignores Victims:**
-```
-State vs. Offender
-    ↓
-Victim is just "witness"
-    ↓
-Case closed, victim forgotten
-```
-
-**Restorative Justice Centers Victims:**
-```
-Victim is protagonist
-    ↓
-Victim's needs drive process
-    ↓
-Victim receives restoration
-```
-
-**What Do Victims Really Need?**
-1. To be heard and believed
-2. Understand why it happened
-3. Sincere apology
-4. Actual compensation
-5. Sense of safety restored
-6. Move forward
-
-**Restorative justice can provide these**
-
----
-
-### 4. Community Is Key to Justice
-
-**Crime Harms More Than Individuals:**
-- Harms victim
-- Harms offender (alienation)
-- Harms community (trust, safety)
-
-**Restoration Requires Community:**
-- Community supports victim
-- Community supervises offender
-- Community accepts returnee
-- Community prevents crime
-
-**African Proverb:**
-> "It takes a village to raise a child. It also takes a community to repair a wrong."
-
----
-
-### 5. Prevention Far Better Than Punishment
-
-**Cost Comparison:**
-```
-Prevention (invest in education, health, community):
-$10,000/person/year
-    ↓
-Incarceration (lock them up):
-$30,000-60,000/person/year
-    ↓
-But prevention = 0 crimes
-Incarceration = 70% recidivism
-```
-
-**Logic Clear:**
-```
-Invest in front end (education, health, opportunity)
-    ↓
-Far better than back end (prisons)
-    ↓
-Cheaper, more effective, more humane
+腐败得逞
 ```
 
 ---
 
-### 6. Justice and Mercy Are Not Contradictory
+### 防腐败六大机制
 
-**Misconception:**
-> "Either justice (harsh punishment) or mercy (forgiveness), choose one"
+#### 机制1：全面透明
 
-**Truth:**
-> "True justice includes mercy, true mercy requires justice"
+**所有决策公开：**
+- 会议记录
+- 投票结果
+- 政策理由
+- 预算明细
 
-**Restorative Justice:**
-- For victims: Justice (harm acknowledged, receives repair)
-- For offenders: Mercy (treated as human, gets chance to change)
-- For society: Both (safety + reconciliation)
+**所有官员财产公开：**
+- 上任时申报
+- 定期更新
+- 家属财产也公开
+- AI比对，识别异常
 
----
+**所有交易可追溯：**
+- 区块链记录
+- 无法篡改
+- 任何人可查
 
-## Leading to the Next Chapter
-
-**Justice and mediation system resolves conflicts and crimes.**
-
-**But who makes the rules? How are decisions made?**
-
-**Chapter 17 will explore: Political System Design**
-- True democracy
-- Checks and balances
-- Preventing corruption
-- Citizen participation
-- From representative to participatory
-
-**From justice to governance, complete political system.**
+**阳光是最好的消毒剂（布兰代斯大法官）**
 
 ---
 
-**Reading Time: Approximately 27 minutes**
+#### 机制2：无利可图
+
+**降低腐败动机：**
+
+**官员不能致富：**
+- 无高薪（基本保障）
+- 服务 = 贡献值（不是金钱）
+- 离任后不能进入相关企业（旋转门禁止）
+
+**寻租空间消失：**
+- 基本需求保障（房、食、医、教）
+- 贡献值不可继承（无法给子女留财富）
+- 权力无法变现（所有交易透明）
+
+**新加坡经验+：**
+- 新加坡：高薪养廉
+- 贡献为尊：保障生活，但不致富，服务为荣
 
 ---
 
-<div style="margin-top: 40px; padding: 20px; background-color: #fce4ec; border-left: 4px solid #e91e63;">
-  <h3>💡 Reflection Questions</h3>
+#### 机制3：分散权力
+
+**权力不集中：**
+- 决策多层参与（不是一人说了算）
+- 执行相互监督
+- 审批多人签字
+
+**轮换制度：**
+- 官员定期轮换岗位
+- 避免长期盘踞
+- 难以形成利益网络
+
+**地方自治：**
+- 权力下放
+- 中央无法控制一切
+- 分散风险
+
+---
+
+#### 机制4：严厉惩罚
+
+**零容忍：**
+```
+腐败 → 发现
+    ↓
+立即调查
+    ↓
+证据确凿 → 严惩：
+- 取消全部贡献值
+- 罚款（数倍于贪腐金额）
+- 禁止从政（永久）
+- 社区服务（修复）
+- 严重者：监禁
+    ↓
+公开宣判（警示作用）
+```
+
+**无特权：**
+- 高官和平民同罪同罚
+- 法律面前人人平等
+
+---
+
+#### 机制5：鼓励举报
+
+**保护举报人：**
+- 匿名举报通道
+- 身份严格保密
+- 禁止报复（法律保护）
+- 奖励举报（贡献值）
+
+**调查独立：**
+- 举报 → 独立反腐机构
+- 不受政府干预
+- 直接向公民负责
+
+---
+
+#### 机制6：文化建设
+
+**诚信教育：**
+- 从小培养（第15章）
+- 诚实是核心价值
+- 贪腐是耻辱
+
+**社会监督：**
+- 公民积极举报
+- 媒体自由监督
+- 社区同伴压力
+
+**榜样力量：**
+- 表彰清廉官员
+- 高贡献值
+- 社会尊重
+
+---
+
+## 透明度和问责
+
+### 全方位透明
+
+**政府行为全透明：**
+
+**1. 决策透明**
+```
+任何决策：
+- 为什么做（理由）
+- 怎么做（过程）
+- 谁决定（责任人）
+- 数据支撑（证据）
+- 替代方案（为什么选这个）
+    ↓
+所有公开，实时发布
+```
+
+**2. 财务透明**
+```
+每一分钱：
+- 从哪来（收入）
+- 到哪去（支出）
+- 为什么花（用途）
+- 谁批准（责任）
+    ↓
+区块链记录，公开查询
+```
+
+**3. 算法透明**
+```
+AI辅助决策：
+- 算法开源
+- 数据公开
+- 决策可解释
+- 可以挑战
+```
+
+**例外：**
+- 国家安全（有时限，解密后公开）
+- 个人隐私（保护公民）
+- 商业机密（必要时）
+
+**但：例外需要严格理由，定期审查**
+
+---
+
+### 全流程问责
+
+**每个决策都有责任人：**
+
+**决策前：**
+```
+提案者：XXX
+审核者：YYY
+批准者：ZZZ
+    ↓
+所有记录在案
+```
+
+**决策后：**
+```
+执行者：AAA
+监督者：BBB
+评估者：CCC
+    ↓
+结果公开
+```
+
+**结果评估：**
+```
+政策实施X年后：
+- 达到目标了吗？
+- 有意外后果吗？
+- 成本如预期吗？
+    ↓
+AI自动评估
+    ↓
+人类审查
+    ↓
+公开报告：
+- 成功 → 总结经验
+- 失败 → 追究责任
+```
+
+**追责机制：**
+```
+重大失误/失职/腐败：
+    ↓
+调查（独立委员会）
+    ↓
+听证（公开）
+    ↓
+判决：
+- 解职
+- 罚款
+- 禁止从政
+- 法律责任
+    ↓
+公开宣判
+```
+
+---
+
+## 公民参与的激励
+
+### 为什么参与？
+
+**当前：冷漠**
+```
+大多数人不参与政治
+    ↓
+为什么？
+- 太忙（工作、生活）
+- 觉得无用（一票不重要）
+- 不懂（太复杂）
+- 无回报（纯付出）
+```
+
+---
+
+### 贡献为尊的激励
+
+**1. 时间有了**
+```
+工作20-30小时/周（第9章）
+    ↓
+有时间参与公共事务
+```
+
+**2. 有实际影响**
+```
+直接民主 → 你的投票决定政策
+参与式民主 → 你的提案被采纳
+公民议事会 → 你的建议影响法律
+    ↓
+真正当家作主
+```
+
+**3. 获得认可**
+```
+参与 = 贡献（第8章类别6）
+    ↓
+参加会议：+贡献值
+提出提案：+更多贡献值
+被选入公民议事会：+高贡献值
+    ↓
+不是纯付出，有回报
+```
+
+**4. 信息支持**
+```
+AI提供：
+- 议题背景（易懂）
+- 多元观点
+- 事实核查
+- 预测后果
+    ↓
+知情决策，不盲目
+```
+
+**5. 教育培养**
+```
+从小教育（第15章）：
+- 公民责任
+- 批判性思维
+- 参与技巧
+    ↓
+有能力、有意愿参与
+```
+
+---
+
+## 去中心化与地方自治
+
+### 权力分层
+
+**不是所有权力都在中央：**
+```
+联邦/国家层面：
+- 外交、国防
+- 货币、宏观经济
+- 基本权利保障
+- 跨地区协调
+
+    ↓
+
+省/州层面：
+- 区域经济
+- 教育、医疗标准
+- 环境保护
+- 基础设施
+
+    ↓
+
+市/县层面：
+- 地方规划
+- 社区服务
+- 公共设施
+- 文化活动
+
+    ↓
+
+社区层面：
+- 邻里事务
+- 小型项目
+- 日常管理
+- 社区活动
+```
+
+**原则：能在低层解决的，不上提**
+
+---
+
+### 地方自治的好处
+
+**1. 更了解当地需求**
+```
+中央政府：统一政策
+    ↓
+但各地情况不同
+    ↓
+一刀切 = 浪费或无效
+
+地方自治：定制政策
+    ↓
+符合当地实际
+    ↓
+更有效
+```
+
+**2. 更快决策**
+```
+事事上报中央 → 慢
+地方自主决定 → 快
+```
+
+**3. 更多实验**
+```
+不同地方尝试不同方法
+    ↓
+成功的推广
+    ↓
+失败的放弃
+    ↓
+"实验室民主"（布兰代斯）
+```
+
+**4. 更强参与**
+```
+地方事务 → 贴近生活
+    ↓
+人们更愿意参与
+```
+
+---
+
+### 中央与地方平衡
+
+**不是完全分离：**
+
+**中央保留：**
+- 基本标准（人权、环保、质量）
+- 协调机制（避免地方冲突）
+- 支持能力（弱地区）
+- 监督权（防止腐败、滥权）
+
+**地方灵活：**
+- 如何达到标准（自主选择）
+- 地方特色政策
+- 实验创新
+
+**合作：**
+- 地方间学习
+- 资源共享
+- 联合项目
+
+---
+
+## AI在政治中的角色
+
+### AI的五大应用
+
+#### 应用1：信息提供
+
+**为公民提供：**
+```
+议题X即将投票
+    ↓
+AI提供：
+- 议题背景（历史、现状）
+- 支持观点（理由、证据）
+- 反对观点（理由、证据）
+- 类似案例（国际经验）
+- 预测后果（模拟）
+    ↓
+公民知情投票
+```
+
+**个性化：**
+- 根据你的理解水平调整
+- 你关心的角度重点呈现
+- 但呈现所有观点（不偏颇）
+
+---
+
+#### 应用2：辅助决策
+
+**政策模拟：**
+```
+提案：提高最低工资到X
+    ↓
+AI模拟：
+- 就业影响（可能失业Y人）
+- 收入影响（Z人收入增加）
+- 经济影响（GDP变化）
+- 社会影响（不平等变化）
+    ↓
+多种情境（乐观、悲观、现实）
+    ↓
+辅助决策，不是替代
+```
+
+---
+
+#### 应用3：监督和预警
+
+**实时监测：**
+```
+AI监测政府行为
+    ↓
+发现异常：
+- 预算超支
+- 决策不一致
+- 可疑交易
+    ↓
+自动警告公民和监督机构
+```
+
+---
+
+#### 应用4：促进参与
+
+**降低参与门槛：**
+```
+AI：
+- 总结长篇文件（普通人能懂）
+- 翻译专业术语
+- 回答公民问题
+- 匹配兴趣（推荐相关议题）
+    ↓
+更多人能参与
+```
+
+---
+
+#### 应用5：评估效果
+
+**政策追踪：**
+```
+政策实施后
+    ↓
+AI持续监测：
+- 实际效果 vs. 预期
+- 意外后果
+- 成本效益
+    ↓
+定期报告
+    ↓
+问责和改进
+```
+
+---
+
+### AI的限制（必须强调）
+
+**AI不能：**
+
+**1. 做价值判断**
+- 什么是"好"政策？（价值观不同）
+- 如何权衡？（伦理问题）
+- 人类决定，不是AI
+
+**2. 替代民主**
+- AI提供信息
+- 但人类投票
+- 人类负责
+
+**3. 消除政治分歧**
+- 分歧源于价值观、利益不同
+- AI无法"计算"出统一答案
+- 民主就是管理分歧
+
+**AI = 工具，人类 = 主体**
+
+---
+
+## 关键洞察
+
+### 1. 民主不是四年一次投票
+
+**真正的民主：**
+```
+不是：
+选代表 → 四年不管 → 再选
+    ↓
+而是：
+持续参与 → 直接决策 → 监督执行
+```
+
+**民主是生活方式，不是政治仪式**
+
+---
+
+### 2. 权力必须被监督
+
+**阿克顿勋爵名言：**
+> "权力导致腐败，绝对权力导致绝对腐败。"
+
+**所以：**
+- 分散权力
+- 透明运作
+- 公民监督
+- 严惩腐败
+
+**永恒警惕，永不懈怠**
+
+---
+
+### 3. 参与需要激励
+
+**人性现实：**
+- 时间有限
+- 精力有限
+- 需要动机
+
+**所以：**
+- 减少工作时间（有时间）
+- 参与 = 贡献（有回报）
+- 真正有影响力（有意义）
+- 信息支持（能做到）
+
+**不是道德说教，而是制度设计**
+
+---
+
+### 4. 透明是民主的氧气
+
+**没有透明：**
+```
+信息不对称
+    ↓
+无法有效监督
+    ↓
+权力必然腐败
+    ↓
+民主名存实亡
+```
+
+**有透明：**
+```
+信息公开
+    ↓
+公民知情
+    ↓
+有效监督
+    ↓
+权力受约束
+    ↓
+真正民主
+```
+
+---
+
+### 5. 地方自治激发活力
+
+**中央集权问题：**
+- 僵化
+- 低效
+- 扼杀创新
+
+**地方自治优势：**
+- 灵活
+- 高效
+- 百花齐放
+
+**平衡：**
+- 中央保障基本
+- 地方自主创新
+
+---
+
+### 6. AI是民主的助手
+
+**AI可以：**
+- 降低参与门槛（信息支持）
+- 提高决策质量（模拟预测）
+- 增强监督能力（实时追踪）
+
+**AI不能：**
+- 替代人类判断
+- 消除价值分歧
+- 成为新的统治者
+
+**人机协作，人类主导**
+
+---
+
+## 引出下一章
+
+**政治制度设计解决了"谁统治、如何统治"。**
+
+**但经济如何运作？生产、分配如何组织？**
+
+**第18章将探讨：经济制度设计**
+- 生产组织
+- 所有制形式
+- 市场与计划的结合
+- 创新激励
+- 国际贸易
+
+**从政治到经济，完整制度体系。**
+
+---
+
+**阅读时间：约28分钟**
+
+---
+
+<div style="margin-top: 40px; padding: 20px; background-color: #e8eaf6; border-left: 4px solid #3f51b5;">
+  <h3>💡 反思问题</h3>
   <ol>
-    <li><strong>Revenge or Restoration</strong>: If you were a victim, would you prefer revenge (offender suffers) or restoration (receive apology and compensation)?</li>
-    <li><strong>Second Chances</strong>: Do you believe people can change? Would you give someone who wronged you a second chance?</li>
-    <li><strong>Community Responsibility</strong>: What role should community play in preventing crime?</li>
-    <li><strong>Prison Alternatives</strong>: If not incarceration, what do you think could better address crime?</li>
-    <li><strong>Forgiveness</strong>: Is forgiveness a victim's obligation? Or choice? Under what circumstances?</li>
-    <li><strong>Prevention Investment</strong>: If you had to choose, invest in prisons or in education/health?</li>
-    <li><strong>Extreme Cases</strong>: For serial killers, does restorative justice still apply? Where's the line?</li>
+    <li><strong>你的参与</strong>：你参与过政治决策吗？为什么参与或不参与？</li>
+    <li><strong>代表性</strong>：你觉得现在的政客代表你吗？为什么？</li>
+    <li><strong>抽签制</strong>：如果你被随机选中进入公民议事会，你会愿意吗？</li>
+    <li><strong>透明度</strong>：你想知道政府所有决策和财务吗？还是有些应该保密？</li>
+    <li><strong>腐败</strong>：你见过腐败吗？什么制度能真正防止腐败？</li>
+    <li><strong>时间精力</strong>：如果工作时间减少到20-30小时/周，你会参与政治吗？</li>
+    <li><strong>AI角色</strong>：你信任AI提供政治信息吗？担心AI操纵吗？</li>
   </ol>
 </div>
 
 ---
 
 <div style="margin-top: 40px;">
-  <a href="chapter15.html">← Previous Chapter: Education and Awakening System</a> | 
-  <a href="chapter17.html">Next Chapter: Political System Design →</a>
+  <a href="chapter16.html">← 上一章：公义与调解系统</a> | 
+  <a href="chapter18.html">下一章：经济制度设计 →</a>
 </div>
 
 <div style="margin-top: 20px;">
-  <a href="../../theory-toc.html">Back to Table of Contents</a> |
-  <a href="../detailed/chapter16.html">View Detailed Edition of This Chapter</a>
+  <a href="../../theory-toc.html">返回目录</a> |
+  <a href="../detailed/chapter17.html">查看本章详细版</a>
 </div>
 
 <div style="text-align: right; margin-top: 40px;">
-  <a href="../../../chapters/brief/chapter16.html">查看中文版 →</a>
+  <a href="../../en/chapters/brief/chapter17.html">View English Version →</a>
 </div>
 ```
 
@@ -1100,81 +1239,88 @@ Cheaper, more effective, more humane
 
 1. 进入你的仓库
 2. 点击 "Add file" → "Create new file"
-3. 文件名：`en/chapters/brief/chapter16.md`
+3. 文件名：`chapters/brief/chapter17.md`
 4. 粘贴上面的完整内容
-5. Commit message: "Add English Chapter 16: Justice and Mediation System (Brief Edition)"
+5. Commit message: "Add Chapter 17: Political System Design (Brief Edition)"
 6. 点击 "Commit new file"
 
 ---
 
-## 英文版翻译特点
+## 中文版第17章特点
 
-### 1. **司法术语的专业翻译**
+### 1. **深刻的政治批判**
 
-| 中文 | 英文 |
-|-----|------|
-| 公义与调解系统 | Justice and Mediation System |
-| 惩罚性正义 | Punitive Justice |
-| 修复式正义 | Restorative Justice |
-| 修复式司法会议 | Restorative Justice Conferences |
-| 社区调解 | Community Mediation |
-| 再犯率 | Recidivism Rate |
-| 创伤知情方法 | Trauma-Informed Approach |
-| 重返社会 | Reintegration |
+当前代议民主的五大缺陷：
+1. 金钱政治
+2. 职业政客阶层
+3. 党派极化
+4. 信息不对称
+5. 代表性不足
 
-### 2. **权威人物引用的标准英文**
-
-- **Desmond Tutu**（德斯蒙德·图图）：
-  - "There is no future without forgiveness, but there is also no future without justice. True justice is not revenge, but restoration."
-  
-- **Nelson Mandela**（纳尔逊·曼德拉）：
-  - "Even the hardest heart can be touched by soft humanity."
-  
-- **African Proverb**（非洲谚语）：
-  - "It takes a village to raise a child. It also takes a community to repair a wrong."
-
-### 3. **真实案例的准确描述**
-
-详细描述三个成功模式：
-1. **New Zealand Model**（新西兰模式）：修复式司法会议案例
-2. **Portugal Model**（葡萄牙模式）：毒品去罪化，再犯率下降90%
-3. **Norway Model**（挪威模式）：人道监狱，再犯率20% vs 美国70%
-
-### 4. **层级化调解体系的清晰表达**
+### 2. **四种民主形式的创新结合**
 ```
-Tier 1: Community Mediation (Minor conflicts)
-Tier 2: Professional Mediation (Moderate conflicts)
-Tier 3: Restorative Justice Conferences (Serious crimes)
-Tier 4: Traditional Justice (Extreme cases)
+形式1：直接民主（重大决策）- 全民公投
+形式2：参与式民主（日常事务）- 参与式预算
+形式3：抽签民主（避免精英）- 公民议事会
+形式4：代议民主（必要补充）- 改革后保留
 ```
 
-每个层级都有详细的英文流程和案例
+每种形式都有详细运作机制和真实案例
 
-### 5. **社区正义的三个维度**
+### 3. **权力制衡的创新设计**
 
-用标准英文表达：
-1. **Prevention (Before)**: Care, identify risks, provide resources
-2. **Participation (During)**: Conferences, community service
-3. **Reacceptance (After)**: Circle of Welcome
+- 传统三权分立（强化）
+- 新增第四权（公民监督）
+- AI辅助制衡
 
-### 6. **系统性预防的五大策略**
+### 4. **防腐败六大机制**
 
-1. **Eliminate Poverty**: Basic guarantee
-2. **Treat Addiction and Mental Illness**: Free treatment
-3. **Education and Employment Opportunities**: Lifelong learning
-4. **Community Belonging**: Social as contribution
-5. **Trauma-Informed Approach**: Address root causes
+1. 全面透明
+2. 无利可图
+3. 分散权力
+4. 严厉惩罚
+5. 鼓励举报
+6. 文化建设
 
-每个策略都与前面章节的制度设计相连
+系统性方法，不是单一手段
+
+### 5. **真实国际案例**
+
+- **巴西阿雷格里港**：参与式预算30年成功经验
+- **爱尔兰**：公民议事会解决堕胎争议
+- **新加坡**：高薪养廉经验
+
+增加说服力和可行性
+
+### 6. **去中心化与地方自治**
+
+权力分层：
+- 联邦/国家层面
+- 省/州层面
+- 市/县层面
+- 社区层面
+
+原则：能在低层解决的，不上提
+
+### 7. **AI在政治中的五大应用和三大限制**
+
+应用：
+1. 信息提供
+2. 辅助决策
+3. 监督预警
+4. 促进参与
+5. 评估效果
+
+限制：
+1. 不做价值判断
+2. 不替代民主
+3. 不消除分歧
+
+强调人类主导
 
 ---
 
 ## 当前进度
 ```
-中英文双语进度对比：
-
-中文版 chapters/brief/：
-├── chapter01-16.md ✓ (第1-16章完成)
-
-英文版 en/chapters/brief/：
-├── chapter01-16.md ✓ (第1-16章完成)
+chapters/brief/
+├── chapter01-17.md ✓ (第1-17章完成)
