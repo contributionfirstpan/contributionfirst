@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chapter 1: The Fundamental Needs of Human Civilization (Brief Edition)
+title: "Chapter 1: The Fundamental Needs of Human Civilization (Brief Edition)"
 ---
 
 <div style="text-align: right; margin-bottom: 20px;">
@@ -178,45 +178,3 @@ In the next chapter, we will see how theocratic civilization tried to build orde
   <a href="../../theory-toc.html">Back to Table of Contents</a> |
   <a href="../detailed/chapter01.html">View Detailed Edition of This Chapter</a>
 </div>
-```
-
----
-
-## 文件目录结构说明
-
-**英文版网站的完整目录结构应该是：**
-```
-你的仓库/
-├── index.md                          # 中文首页
-├── theory-toc.md                     # 中文理论目录
-├── community.md                      # 中文社区页面
-├── _config.yml                       # 配置
-│
-├── chapters/                         # 中文章节
-│   ├── brief/                       
-│   │   ├── chapter01.md             # 中文简述版第1章
-│   │   ├── chapter02.md             # 中文简述版第2章
-│   │   └── ...
-│   └── detailed/                    
-│       ├── chapter01.md             # 中文详细版第1章
-│       └── ...
-│
-├── en/                              # 英文版（全部内容）
-│   ├── index.md                     # 英文首页
-│   ├── theory-toc.md                # 英文理论目录
-│   ├── community.md                 # 英文社区页面
-│   │
-│   └── chapters/                    # 英文章节
-│       ├── brief/                   
-│       │   ├── chapter01.md        # 英文简述版第1章 ← 刚创建的
-│       │   ├── chapter02.md        # 英文简述版第2章
-│       │   └── ...
-│       └── detailed/                
-│           ├── chapter01.md        # 英文详细版第1章
-│           └── ...
-│
-└── files/                           # 文件资源
-    ├── book-brief-zh.pdf           
-    ├── book-detailed-zh.pdf        
-    ├── book-brief-en.pdf           
-    └── book-detailed-en.pdf
