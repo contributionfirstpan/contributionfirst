@@ -1,8 +1,3 @@
----
-layout: default
-title: "Chapter 1: The Fundamental Needs of Human Civilization (Brief Edition)"
----
-
 <div style="text-align: right; margin-bottom: 20px;">
   <a href="../detailed/chapter01.html">View Detailed Edition →</a> | 
   <a href="../../theory-toc.html">Back to Table of Contents</a>
