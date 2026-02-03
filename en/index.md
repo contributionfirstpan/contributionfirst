@@ -1,232 +1,371 @@
 ---
 layout: default
-title: "Contribution-First Civilization: A New Paradigm Beyond Capitalism and Socialism"
+title: Contribution-First Civilization
 ---
 
 <div style="text-align: right; margin-bottom: 20px;">
-  <strong>English</strong> | <a href="../index.html">中文</a>
+  <a href="../index.html">中文</a> | <strong>English</strong>
 </div>
 
 # Contribution-First Civilization
-## A 20-Year Research Journey on Post-Capitalist Society
+
+**A Systemic Civilizational Transformation Beyond Capitalism**
 
 ---
 
-## A Question That Changed Everything
+## The Fundamental Contradiction of Our Era
 
-**Twenty years ago, I began asking:**
+### What We Have
 
-> Why, in the 21st century with AI, automation, and abundant production capacity, do billions still struggle with poverty, anxiety, and meaninglessness?
+Humanity today possesses unprecedented capabilities:
+- ✓ **Near-infinite material production capacity** — Breakthroughs in automation, AI, biotechnology
+- ✓ **Globally connected real-time information networks** — Exponential growth in knowledge and technology
+- ✓ **Massive wealth accumulation** — Sufficient to meet basic needs of the global population
 
-This question led me down a path of systematic research—spanning philosophy, sociology, economics, and technology—to understand the root causes of human suffering and design a genuinely better civilization.
+### What We Face
 
-**Today, I present the answer: Contribution-First Civilization.**
+Yet everyone experiences:
+- ✗ **Anxiety and fear about material scarcity** — Despite sufficient productive capacity
+- ✗ **Recurring cycles of suffering and disaster** — Corruption, warfare, economic crises repeating cyclically
+- ✗ **Negative population growth** — Civilization's core function (reproduction and continuity) is being lost
 
----
+### Why?
 
-## Four Stages of Research
+Because we still use systems designed for 19th-20th century technological conditions:
 
-### Stage 1: Observation — The Contemporary Paradox
+| Technological Reality | Institutional Lag | Real Suffering |
+|----------------------|-------------------|----------------|
+| Material abundance | **Scarcity-based production mechanisms** | Suppress creation, cause material anxiety |
+| Infinite information/knowledge | **Competition-elimination incentives** | Increase social pressure, drive population decline |
+| Global connectivity | **Punishment-threat governance** | Amplify anxiety and fear, limit capabilities |
 
-**The Contradiction:**
-- **Infinite production capacity**: AI, automation, clean energy can produce enough for everyone
-- **Scarcity-based systems**: Capitalism and socialism both operate on scarcity assumptions
-- **Result**: Artificial scarcity, inequality, ecological crisis, spiritual emptiness
-
-**The Question:**
-> If we can produce abundance, why do we still operate as if resources are scarce?
-
----
-
-### Stage 2: Understanding the Essence of Civilization
-
-**What is civilization for?**
-
-Through studying 5,000 years of human history, I discovered civilization's purpose is to achieve:
-
-1. **Minimum Cost** (efficient resource use, reduced conflict)
-2. **Minimum Constraints** (maximum personal freedom)
-3. **Maximum Power** (true democracy and autonomy)
-4. **Maximum Freedom** (both negative and positive freedom)
-
-**Historical attempts:**
-- **Theocracy**: God as absolute authority (failed: interpretation wars, science)
-- **Moral Civilization**: Confucianism, Stoicism (failed: divorced from human nature)
-- **Material Civilization**: Capitalism & Socialism (failing: inequality, alienation, ecological crisis)
-
-**None achieved all four goals simultaneously.**
+**This is not a resource shortage problem, but artificial scarcity caused by social system design flaws.**
 
 ---
 
-### Stage 3: Contemporary Misalignment
+## About My Exploration
 
-**The Core Problem:**
-> 21st-century technology + 19th-20th century institutions = Dysfunction
+### From Individual Suffering to Civilizational Reconstruction
 
-**Evidence:**
-- **Technology**: Can produce for 10 billion people
-- **Reality**: 800 million malnourished, billions in poverty
-- **Why?** Distribution systems designed for scarcity, not abundance
+#### First Key Recognition: Individual Powerlessness
 
-**AI Paradox:**
-- AI can liberate humanity from labor
-- But under capitalism: Unemployment = poverty
-- The more productive we become, the more people suffer
+Four dimensions constantly generate pressure:
+1. **Moral beliefs**
+2. **Power and interests**
+3. **Material wealth**
+4. **Emotional relationships**
 
-**This mismatch is the root of contemporary crisis.**
+Everyone constantly worries and fears "not getting" or "losing":
+- Power and interests
+- Material wealth
+- Love and intimate relationships
 
----
+This anxiety:
+- Affects both rich and poor
+- Transcends social status
+- Persists across all eras
 
-### Stage 4: The Contribution-First Solution
+> **Core Discovery: Individual humans are too small; individuals cannot solve these problems alone. We must rely on civilizational systems.**
 
-**Core Insight:**
+#### Second Key Recognition: Laws of Civilizational Evolution
 
-All previous civilizations were based on **possession** (ownership):
-- Possess property → inequality → conflict
-- Possess power → oppression → revolution
-- Possess truth → dogma → war
+- ✓ Each civilizational system is the optimal solution under its technological conditions
+- ✓ Each system has a lifecycle
+- ✓ **Old systems' "solutions" become "sources of new problems"**
+- ✓ Institutional change always lags behind technological change
 
-**The Alternative: Contribution**
-- Create value → benefit all → positive-sum
-- Contribution-based rewards → fairness without exploitation
-- Shared resources → collaboration over competition
+#### Third Key Recognition: New Technology Creates New Possibilities
 
-**This is not reform, but paradigm revolution.**
+Contemporary humanity possesses 21st-century technology but still uses 19th-20th century institutions.
 
----
-
-## Six Core Pillars of Contribution-First Civilization
-
-### Pillar 1: Contribution Matches Material Enjoyment
-
-**Principle:**
-> Your material quality of life corresponds to your contribution quantity
-
-**What counts as contribution:**
-- **Work**: Producing goods and services ✓
-- **Learning**: Enhancing your future contribution capacity ✓
-- **Entertainment**: Creating cultural value ✓
-- **Socializing with family/friends**: Maintaining relationships ✓
-- **Dating/romantic relationships**: Building intimate connections ✓
-- **Volunteering**: Helping community ✓
-- **Ecological protection**: Preserving environment ✓
-- **Life exemplar**: Living as an inspiration ✓
-
-**Key difference from capitalism:**
-- No exploitation (no capitalist taking surplus value)
-- Direct reward (creators receive contribution value)
-- Contribution value cannot be inherited (each generation starts equal)
+**Theoretically, we can design better systems.**
 
 ---
 
-### Pillar 2: All Information, Knowledge, and Skills Are Shared
+## Contribution-First Civilization: A Systemic Solution
 
-**Why?**
-- Information monopoly → power inequality → corruption
-- Knowledge barriers → wars over technology
-- Proprietary systems → waste and conflict
+### Core Philosophy
 
-**Implementation:**
-- All research publicly available (like ArXiv)
-- All patents shared (inventors receive contribution value)
-- Free lifelong education (AI-personalized tutors)
-- Open-source everything (transparent algorithms)
+**From "scarcity-competition-punishment" paradigm to "contribution-cooperation-support" paradigm**
 
-**Real-world examples:**
-- Linux: Collaboration beats proprietary (dominates servers)
-- Wikipedia: 20 million articles, 300 languages, free
-- Open-source movement: Proves sharing accelerates innovation
+### Three Systemic Transformations
 
----
+#### Transformation 1: From Scarcity-Based to Contribution-Based Production & Distribution
 
-### Pillar 3: All Power and Property Are Shared
+**Problems:**
+- Artificially create scarcity to maintain prices and profits
+- Suppress productive capacity, limit innovation dissemination
+- Intellectual property barriers, planned obsolescence
 
-**Not state ownership (socialism's mistake):**
-- Not private ownership (capitalism's mistake)
-- But **use rights + contribution-based allocation**
+**Solutions:**
+- **Universal Sharing**: All knowledge, skills, information, property, and facilities become shared resources
+- **Contribution Credit System**: All meaningful activities earn contribution credits
+  - Work
+  - Learning
+  - Entertainment
+  - Social connections with friends and family
+  - Romantic relationships
+- **Power-Money Conversion**: Cannot directly purchase benefits; must convert through actual contributions to credits
 
-**How it works:**
-- Production facilities: Socially owned, worker-managed
-- Housing: Basic guaranteed, better housing via contribution value
-- Natural resources: Belong to all humanity and future generations
-- Political power: Direct democracy + representative + sortition
+**Expected Outcomes:**
+- ✓ Full release of productive capacity
+- ✓ Dramatically increase goods/services quality and quantity
+- ✓ Systematic cultivation of everyone's capabilities
+- ✓ Fundamentally eliminate material scarcity anxiety
 
-**Key feature:**
-- Power linked only to contribution (not inheritance, not wealth)
-- Transparent and accountable (algorithms open-source)
-- Revocable (officials can be recalled anytime)
+#### Transformation 2: From Competition-Elimination to Universal Basic Needs Fulfillment
 
----
+**Problems:**
+- Zero-sum game thinking
+- Extreme social pressure
+- Mental health crisis
+- Fertility collapse
 
-### Pillar 4: Everyone's Desires Are Basically Satisfied
+**Solutions:**
+- **Unconditional Basic Guarantee**:
+  - Housing, food, healthcare, education
+- **Core Needs System Fulfillment**:
+  - Work opportunities: Guarantee contribution opportunities for everyone
+  - Learning needs: Unconditional access to needed knowledge and skills
+  - Entertainment needs: Rich cultural and recreational resources
+  - Social needs: Support healthy social relationships (friendship, family, romance)
+- **Contribution-Matched Advancement**:
+  - Beyond basic guarantee, access more and better goods/services according to contribution credits
 
-**Basic needs (unconditionally guaranteed):**
-- Housing, food, healthcare, education
-- Safety from violence and economic fear
-- Social connections and belonging
-- Opportunities for growth
+**Expected Outcomes:**
+- ✓ Eliminate survival pressure
+- ✓ Drastically reduce social anxiety
+- ✓ Restore fertility intention
+- ✓ Reverse negative population growth trend
+- ✓ Enable comprehensive human development
 
-**Higher desires (supported but require contribution value):**
-- Better housing, travel, luxury goods
-- Special experiences
+#### Transformation 3: From Power-Money Distribution to Contribution-Matched Enterprise Systems
 
-**Why this doesn't make people "lazy":**
-- Humans seek meaning beyond survival (Maslow's hierarchy)
-- Social pressure and recognition (contribution rankings)
-- Intrinsic motivation (creativity, self-actualization)
-- Real evidence: Finland basic income experiment (employment didn't decrease)
+**Problems:**
+- Wealth and power determine resource allocation
+- Extreme inequality
+- Systemic corruption
+- Severely distorted resource allocation
+- Resource wars
 
----
+**Solutions:**
+- **New Enterprise Organizations**:
+  - Standardized enterprises: Cooperatives providing mature goods/services
+  - Innovative enterprises: R&D teams exploring new technologies/products
+  - Formation principle: Based on contributing knowledge, skills, information, and cooperative support
+- **Resource Allocation Mechanism**:
+  - According to team members' knowledge/skill qualification levels
+  - According to historical credit records and credit scores
+  - According to project social value assessment
+  - Means of production (facilities, equipment, raw materials) allocated as needed
+- **Revenue Distribution Principle**:
+  - Employees earn credits according to contribution
+  - Quality: Innovation, social impact
+  - Quantity: Work hours, output scale
+  - Impact: Long-term value, ecological benefits
 
-### Pillar 5: Everyone Can Unconditionally Access Learning Resources
-
-**Unconditional means:**
-- No tuition fees (all education free)
-- No age limits (learn at 80? Yes!)
-- No prerequisites (no entrance exams)
-- No time limits (career change at 40? Yes!)
-
-**Why?**
-- Capability enhancement = future contribution capacity
-- True equality of opportunity
-- Adapting to AI era (lifelong learning necessary)
-
-**Support:**
-- AI personalized tutors (infinite patience)
-- Human mentors (emotional support)
-- All materials free (books, equipment, labs)
-- Learning itself earns contribution value
-
----
-
-### Pillar 6: Maximum Freedom and Power
-
-**Only constraint: Non-violence**
-
-**What is violence?**
-- Direct violence (assault, murder, rape)
-- Structural violence (exploitation, monopoly, systemic discrimination)
-- Ecological violence (severe environmental destruction)
-
-**Everything else is free:**
-- Speech (criticize anyone, any system)
-- Lifestyle (LGBTQ+, polyamory, single, any voluntary form)
-- Belief (any religion or none)
-- Association (organize any group)
-- Experimentation (try new ways of living)
-
-**Why non-violence only?**
-- Absolute freedom paradox: Your freedom to kill removes another's freedom to live
-- Minimum constraint = maximum freedom
-- Trust in human maturity (not paternalism)
+**Expected Outcomes:**
+- ✓ Corruption loses institutional foundation
+- ✓ Resource war motives eliminated
+- ✓ End cyclical nature of economic crises
 
 ---
 
-## The Logic Chain
+## Supporting Institutional Innovations
+
+### Economic Democracy
+- Worker cooperatives become dominant enterprise form
+- One person one vote replaces one share one vote
+- Workers collectively own means of production
+
+### AI-Coordinated Allocation
+- Beyond market blindness (coexisting surpluses and shortages)
+- Beyond central planning's information dilemma (Soviet-style failure)
+- Real-time demand sensing + dynamic resource optimization
+
+### Deep Democracy
+- **Direct Democracy**: Public referendums for major decisions
+- **Participatory Democracy**: Full community-level discussion
+- **Sortition**: Random selection to avoid elite monopoly
+- **Representative Democracy**: Professional handling of complex affairs
+
+### Ecological Hard Constraints
+- Planetary boundaries scientifically quantified
+- Economic activities must comply with ecological carrying capacity
+- Hard limits on carbon budgets, water resources, biodiversity, etc.
+- Activities violating ecological constraints automatically restricted
+
+---
+
+## Why Is This Theory Viable?
+
+### Technological Foundation Is Mature
+
+- **AI Technology**: Assists economic coordination, personalized support, transparent governance
+- **Automation**: Liberates human labor, creates material abundance
+- **Clean Energy**: Provides sustainable energy foundation
+- **Big Data**: Enables transparency and fairness
+
+### Real-World Evidence Exists
+
+- ✓ **Nordic Models** prove high welfare and high creativity can coexist
+- ✓ **Worker Cooperatives** prove non-capital-dominated organizations are viable
+- ✓ **Open Source Communities** prove contribution-based collaboration mechanisms work
+- ✓ **Basic Income Experiments** demonstrate positive effects of removing survival pressure
+
+### Gradual Transformation Path
+
+Not radical revolution, but **50-200 year gradual transformation**:
+
+**Phase 1: Pilot Experiments (5-10 years)**
+- Progressive regions (e.g., BC) launch community pilots
+- Establish small-scale contribution credit systems
+- Test cooperative enterprise models
+
+**Phase 2: Regional Expansion (10-30 years)**
+- Successful models expand at province/state level
+- Establish cross-regional contribution credit exchange mechanisms
+- Form complete regional economic ecosystems
+
+**Phase 3: National Transformation (30-80 years)**
+- National-level institutional reform
+- Revise constitutions and legal frameworks
+- National AI coordination system construction
+
+**Phase 4: Global Integration (80-200 years)**
+- International contribution credit system establishment
+- Global resource coordination mechanisms
+- Humanity completes civilizational transformation
+
+---
+
+## What I Have Accomplished
+
+### 1. Systematic Theory
+
+**Contribution-First Civilization** — A third way beyond capitalism and socialism
+
+**28-chapter complete theoretical system (approximately 600,000 words, Chinese & English)**
+
+Content covers:
+- Fundamental problem analysis of existing civilization
+- Contribution-First economic, political, social, and cultural systems
+- Transformation pathways from present to 200 years into the future
+- Systematic responses to all major challenges
+- Comparisons with other civilizational theories
+- Detailed FAQ
+
+[📖 View Complete Theory Table of Contents](theory-toc.html)
+
+### 2. Practical Validation Project
+
+**OmniHelp - AI-Driven Mental Health Platform**
+
+The first practical step in embodying the "reduce human suffering" philosophy.
+
+#### Design Philosophy
+
+Within the current civilizational system, provide individuals with partial support from the new civilizational system.
+
+#### A. AI Oracle + AI Navigation & Guidance
+
+**1. Understand Real Needs Behind Anxiety and Desires**
+
+Each desire, worry, and anxiety contains:
+- Strength, motivation, vitality
+- Experiences
+- Growth opportunities
+
+Help users identify real needs and courageously attempt.
+
+**2. Manage Expectations**
+
+- Set reasonable expectations (**success rate <30%**)
+- Understand "most things don't work out" as the norm
+- Accept uncertainty, gain strength and growth from the process
+- **High expectations are fatal weaknesses**
+
+**3. Assess Feasibility**
+
+Analyze whether goals align with environment and companions' expectations:
+
+**(1) Clearly understand companions' and environment's expectations**  
+**(2) Guide and improve companions' and environment's expectations**  
+**(3) Understand and respect companions' and environment's expectations**
+
+**4. Provide Systematic Support**
+
+Continuous support during pursuit, guided pause and learning when capabilities insufficient.
+
+- **(1) Starting Phase**: Courage + set reasonable expectations (success rate <30%)
+- **(2) Middle Process**: Steady rationality + set reasonable emotions (unhappiness value >50% stop activity)
+- **(3) Peak Process**: Retreat at peak + set reasonable retreat (peak value >80% stop activity)
+
+#### B. Five Functional Modules
+
+| Module | Function |
+|--------|----------|
+| **1. Emotional Issues Module** | Reduce anxiety and suffering |
+| **2. Cognitive Behavioral Module** | Understand one's patterns |
+| **3. Capability Enhancement Module** | Gain growth pathways |
+| **4. Resource Connection Module** | Connect people with opportunities |
+| **5. Contribution Record Module** | Make value visible |
+
+[🛠️ Learn More About OmniHelp Project](omnihelp.html)
+
+---
+
+## Contribution-First vs Existing Systems
+
+### Pain Sources of Existing Civilization
+
+**1. Constraints from Four Dimensions**
 ```
-Humans cycle through anxiety and suffering
+Moral beliefs, power/interests, material wealth, emotional relationships
     ↓
-Individuals cannot solve root problems alone
+Private ownership + Competition
+    ↓
+Recurring anxiety and suffering
+```
+
+**2. Lack of Support**
+```
+Lack of systematic support
+    ↓
+Loneliness, anxiety, helplessness
+    ↓
+Limited capabilities, poverty
+```
+
+### Contribution-First Solutions
+
+**1. From Four-Dimensional Competition to Contribution Competition**
+
+- **Competition Content**: From "who dominates, gets more" to "who contributes more"
+- **Contribution Types**: Work, learning, entertainment, social connections (friendship, family, romance)
+- **Contribution Value**: Consumable but not inheritable
+- **Core Advantage**: Contribution-First is cyclically sustainable (power/interests, material wealth, love/sexuality are not sustainable)
+
+**2. Systematic Support**
+
+- **Basic Guarantee**: Work, learning, entertainment, social connections with friends/family/romantic partners
+- **Psychological Support**: AI Oracle + AI Navigation & Guidance
+- **Capability Support**: Lifelong learning, career transition, unconditional access to knowledge and skills
+
+**3. Technological Foundation**
+
+- AI-assisted economic coordination
+- Automation liberates labor
+- Big data enables transparency and fairness
+
+---
+
+## Logic Chain
+
+```
+Humans experience recurring anxiety and suffering
+    ↓
+Individuals cannot solve alone
     ↓
 Must rely on civilizational systems
     ↓
@@ -234,400 +373,127 @@ Current systems designed for old technological conditions
     ↓
 New technology creates new possibilities
     ↓
-Can theoretically design better systems
+Theoretically can design better systems
     ↓
-Create tools to verify feasibility
+First create tools to verify feasibility
     ↓
 OmniHelp + Contribution-First Civilization
+    ↓
+From local experiments to gradual expansion
+    ↓
+50-200 year gradual transformation
+    ↓
+New phase of human civilization
 ```
 
 ---
 
-## OmniHelp Platform: Practical Implementation
+## My Invitation
 
-**AI Oracle + AI Escort System**
+**I look forward to this theory being accepted.**  
+**I look forward to recognition.**
 
-### Core Functions:
+**I need interlocutors** — those who are also thinking about humanity's civilizational future, dissatisfied with the status quo, and willing to engage in deep exploration.
 
-**1. Understanding Real Needs Behind Anxiety**
-- Surface desire: "I want to be rich"
-- Real need: Security, respect, freedom
-- AI helps identify true needs
+### I Invite You To:
 
-**2. Managing Expectations**
-- Success rate typically <30% for ambitious goals
-- AI provides realistic probability assessments
-- Helps set achievable targets
-
-**3. Evaluating Feasibility**
-- Analyzes your capability, resources, probability
-- Not to discourage, but to inform
-- Informed risk-taking > blind pursuit
-
-**4. Systematic Support Throughout Journey**
-- Emotional management
-- Cognitive-behavioral adjustment
-- Capability enhancement
-- Resource connection
-- Contribution tracking and recognition
-
-### Three-Phase Support:
-
-**Phase 1: Beginning**
-- Courage + reasonable expectations
-- "Your goal has 40% success rate. Here's what you need."
-
-**Phase 2: Middle**
-- Stability + emotion management
-- If unhappiness >50% → consider adjusting/stopping
-- Protect mental health
-
-**Phase 3: Peak**
-- Timely retreat
-- If already 80% achieved → is final 20% worth 3x effort?
-- Avoid perfectionism trap
+- 📖 Read my theory ([Complete 28 chapters freely available online](theory-toc.html))
+- 💭 Offer criticisms and suggestions
+- 💬 Participate in discussions
+- 🤝 If you are a scholar, policy researcher, or social movement organizer — let's explore collaboration
+- 🌱 If you agree, help spread the word
+- 🛠️ If capable, participate in OmniHelp or other practices
 
 ---
 
-## Feasibility Evidence
+## If You Are Also Seeking Answers
 
-### Technological Foundation (Already Exists)
+**If you are also dissatisfied with the "capitalism vs socialism" binary framework**  
+**If you believe humanity can design better civilization**  
+**If you are concerned about:**
+- Climate collapse and ecological limits
+- Escalating inequality and social division
+- Democratic decline and authoritarian resurgence
+- Population crisis and civilizational continuity
 
-**1. AI and Automation**
-- Can replace 50%+ of current labor
-- Frees humans for creative work
-- Problem: Current system = unemployment = poverty
-- Solution: Contribution-First = liberation
+**Then we are fellow travelers.**
 
-**2. Clean Energy**
-- Solar, wind, nuclear fusion (coming)
-- Sustainable civilization possible
-
-**3. Big Data & Algorithms**
-- Can track and evaluate diverse contributions
-- Transparent and fair assessment
-- Open-source and challengeable
+Welcome to join. Let's explore together.
 
 ---
 
-### Real-World Proof (Already Happening)
+## Take Action
 
-**1. Nordic Model**
-- High taxes + strong welfare + market economy
-- Result: High equality + high happiness + economic vitality
-- Limitation: Small homogeneous countries, not fully contribution-based
+### 📚 Read the Theory
 
-**2. Worker Cooperatives**
-- Mondragon (Spain): 80,000 workers, democratic management
-- Higher job satisfaction, lower inequality
-- Proves: Workers can manage without capitalist bosses
+- **[Theory Overview](theory.html)** (5-minute quick overview)
+- **[Complete 28 Chapters Online Reading](theory-toc.html)** (Systematic deep understanding)
+- **[PDF Downloads](downloads.html)** (Chinese & English versions)
+- **[Selected Core Chapters](chapters.html)** (Key content)
 
-**3. Open Source Movement**
-- Linux, Wikipedia, ArXiv
-- Millions contribute for free
-- Superior quality to proprietary systems
-- Proves: Contribution > possession for innovation
+### 💬 Join Discussions
 
----
+- [Join Discord Community](contact.html)
+- [GitHub Discussions](https://github.com/contributionfirstpan/contributionfirst/discussions)
+- [Mailing List Subscription](contact.html)
 
-### Gradual Transition (50-100 Years)
+### 🛠️ View Practices
 
-**Not overnight revolution:**
+- [OmniHelp Project](omnihelp.html)
+- [GitHub Code Repository](https://github.com/contributionfirstpan/omnihelp)
+- [Pilot Community Plans](pilots.html)
 
-**Phase 1 (2025-2035): Theory + Experiments**
-- Spread ideas
-- Small-scale community experiments (100-1,000 people)
-- OmniHelp platform development
+### 🤝 Collaboration Opportunities
 
-**Phase 2 (2035-2050): Pioneer Countries**
-- Nordic countries, small progressive nations
-- National-level implementation
-- Learn and iterate
+**I am seeking collaboration with:**
 
-**Phase 3 (2050-2100): Global Expansion**
-- Successful models adopted by more countries
-- Global coordination
-- Peaceful transition
+- Progressive policy research institutions (e.g., BC Policy Solutions)
+- University research centers
+- Labor organizations and cooperative movements
+- Climate justice and social justice organizations
+- Foundations and funders
 
-**Phase 4 (2100+): Maturity**
-- Fine-tuning and continuous improvement
-- No final perfect state
-- Living, evolving civilization
+**If your organization might be interested, please [contact me](contact.html).**
+
+### 📧 Contact Me
+
+- **Email**: contributionfirstpan@gmail.com
+- **Location**: Vancouver, British Columbia, Canada
+- [More Contact Methods](contact.html)
 
 ---
 
-## Why Contribution-First is Not Denial of Current Civilization
+## Deep Reading
 
-**It's evolution, not negation:**
-
-**From Theocracy, we keep:**
-- ✓ Spiritual support (but without lies)
-- ✓ Transcendent meaning (but without mythology)
-- ✗ Absolute authority → Transparent collaboration
-
-**From Moral Civilization, we keep:**
-- ✓ Internal motivation (voluntary contribution)
-- ✓ High cultural standards
-- ✗ Moral oppression → Free choice
-
-**From Material Civilization, we keep:**
-- ✓ Productivity development (AI, automation)
-- ✓ Innovation incentives (contribution value + recognition)
-- ✗ Exploitation and inequality → Contribution-based fairness
-- ✗ Alienation and emptiness → Meaningful contribution
+**[Start Reading the Complete Theory →](theory-toc.html)**
 
 ---
 
-## Three Further Improvements
+## Finally
 
-### 1. Further Reduce Conflict and Harm
+The road is long.
 
-**From conflict to collaboration:**
-- Not possession competition (zero-sum)
-- But contribution competition (positive-sum)
-- Everyone benefits from others' contributions
+The seed has been planted.
 
-**From punishment to restoration:**
-- Not retributive justice
-- But restorative justice
-- Repair relationships, prevent recurrence
+If you've read this far,  
+Thank you for your time.
 
----
+Whether you agree or not,  
+Dialogue is welcome.
 
-### 2. Further Enhance Material Wealth Creation
+**This is not the endpoint, but the starting point.**
 
-**AI-human collaboration:**
-- AI handles repetitive tasks
-- Humans focus on creativity
-- Exponential productivity growth
-
-**Knowledge sharing accelerates innovation:**
-- No patent barriers
-- Global wisdom pooled
-- Open collaboration > proprietary competition
+**Humanity's next civilizational evolution requires us to create it together.**
 
 ---
 
-### 3. Further Increase Individual and Collective Power and Freedom
+*Pan*  
+*Vancouver, February 2025*
 
-**True power distribution:**
-- Direct democracy (major issues)
-- Representative democracy (daily management)
-- Sortition (prevent elite capture)
-
-**True economic freedom:**
-- Not market coercion
-- But voluntary choice with basic security
-
-**True spiritual freedom:**
-- Not consumerist emptiness
-- But fulfillment through contribution
-
----
-
-## Why Contribution is Sustainable (While Possession is Not)
-
-**Possession systems collapse:**
-
-**Power (possession) cycle:**
-```
-Power concentration
-    ↓
-Corruption
-    ↓
-Oppression intensifies
-    ↓
-Revolution
-    ↓
-New power concentration
-    ↓
-Repeat...
-```
-*History: Every dynasty falls, every empire collapses*
-
-**Wealth (possession) cycle:**
-```
-Wealth accumulation
-    ↓
-Inequality increases
-    ↓
-Social division
-    ↓
-Crisis or revolution
-    ↓
-Redistribution
-    ↓
-New accumulation
-    ↓
-Repeat...
-```
-*Present: 1% owns 50% of global wealth, social tearing*
-
----
-
-**Contribution system is sustainable:**
-```
-I contribute
-    ↓
-Society benefits
-    ↓
-I receive contribution value and recognition
-    ↓
-More motivated to contribute
-    ↓
-Society more prosperous
-    ↓
-Everyone benefits
-    ↓
-Continue contributing...
-    ↓
-Upward spiral
-```
-
-**Why sustainable:**
-1. **Contribution is creation, not extraction**
-   - I contribute more → everyone better off
-   - Positive-sum game
-
-2. **Contribution value cannot be inherited**
-   - Each generation starts equal
-   - Breaks inequality cycle
-
-3. **Multiple contribution paths**
-   - Not single standard
-   - Everyone can find their way
-   - No collapse from competition
-
-4. **Ecological sustainability**
-   - Long-term thinking (not quarterly profits)
-   - Environmental costs internalized
-   - Future generations' interests protected
-
-5. **Spiritual sustainability**
-   - Contribution = meaning
-   - Not possession = emptiness
-   - People find happiness in contributing
-
----
-
-## Getting Started
-
-**This website contains:**
-
-1. **[Complete Theory](theory-toc.html)** (28 chapters)
-   - Brief edition (5-10 min per chapter)
-   - Detailed edition (20-40 min per chapter)
-   
-2. **[OmniHelp Platform](omnihelp.html)** (AI mental health support)
-   - Practical implementation
-   - Open for collaboration
-
-3. **[Community](community.html)** (Discussion and practice)
-   - Discord for dialogue
-   - GitHub for technical development
-   - Local meetups
-
----
-
-## For Different Readers
-
-**If you're skeptical:**
-- Read [Chapter 24: FAQ](chapters/brief/chapter24.html)
-- All critical questions addressed
-- Then decide
-
-**If you're curious:**
-- Start with [Chapter 1-5](theory-toc.html) (civilization evolution)
-- Understand the logical foundation
-- Then explore further
-
-**If you want to participate:**
-- Read brief edition (all 28 chapters)
-- Join [Community](community.html)
-- Contribute your ideas
-
-**If you're a researcher:**
-- Read detailed edition
-- Check academic references
-- Engage in critical dialogue
-
----
-
-## About the Author
-
-**Pan**, 61, researcher and civilizational theorist based in Vancouver, BC, Canada.
-
-**Background:**
-- 20+ years developing this theoretical framework
-- AI Assistants Developer Certification
-- Self-studied AI engineering extensively
-- Author of six novels detailing this vision
-
-**Current situation:**
-- Without income for 10+ years (living on government assistance)
-- Lost property to support obligations
-- Dedicated to developing and sharing this theory
-- Seeking collaborators and funding for implementation
-
-**Why trust this work:**
-- Not a privileged theorist in ivory tower
-- Lived through system's failures personally
-- 20 years of rigorous research and thinking
-- Combining Eastern wisdom and Western philosophy
-- Technical understanding of AI and automation
-- Nothing to lose, everything to give
-
----
-
-## Call to Action
-
-**This is not utopian dreaming. This is survival strategy.**
-
-21st-century challenges:
-- AI replacing 50%+ jobs → capitalism fails (no wages → no consumption)
-- Climate crisis → profit-seeking fails (quarterly profits > planet)
-- Extreme inequality → social cohesion fails (1% vs 99%)
-
-**Choice:**
-- Proactive transformation (Contribution-First)
-- Or passive collapse (civilizational crisis)
-
-**Your role:**
-- Read and think critically
-- Challenge and improve the theory
-- Spread the ideas
-- Join the practical work
-- Be part of the solution
-
----
-
-## Contact
-
-**Website:** [Your GitHub Pages URL]  
-**Email:** [Your Email]  
-**Discord:** [Community Link]  
-**GitHub:** [Repository Link]
-
----
-
-**The future is not inevitable. It is a choice.**
-
-**Let's choose wisely.**
-
----
-
-<div style="text-align: center; margin: 60px 0;">
-  <a href="theory-toc.html" style="display: inline-block; padding: 15px 30px; background-color: #2196f3; color: white; text-decoration: none; border-radius: 5px; font-size: 1.2em;">
-    📖 Read the Complete Theory
-  </a>
-  
-  <a href="community.html" style="display: inline-block; padding: 15px 30px; background-color: #4caf50; color: white; text-decoration: none; border-radius: 5px; font-size: 1.2em; margin-left: 20px;">
-    👥 Join the Community
-  </a>
-</div>
+*"One can hold tight to mission and ideals, but must not harbor hope and expectations."*
 
 ---
 
 <div style="text-align: right; margin-top: 40px;">
-  <a href="../index.html">查看中文版 →</a>
+  <a href="../index.html">中文版本 →</a>
 </div>
